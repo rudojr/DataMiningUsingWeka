@@ -1,8 +1,6 @@
 import weka.classifiers.functions.LinearRegression;
 import weka.classifiers.functions.SimpleLinearRegression;
 import weka.classifiers.functions.SMOreg;
-import weka.classifiers.functions.SGD;
-import weka.classifiers.functions.SimpleLogistic;
 import weka.classifiers.Evaluation;
 import weka.core.Instances;
 import weka.core.converters.ArffLoader;
